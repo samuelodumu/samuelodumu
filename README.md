@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Samuel Odumu (though you already knew that)
-- 👀 I’m interested in perfecting my frontend development skills...and chess :)
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on a new or mid-level frontend project
-- 📫 E-mail me let's talk themainsamuel@gmail.com
+- 👋 Hi, I’m Samuel Odumu
+- 👀 I’m working on becoming amazing at the C language...and chess♟️
+- 💞️ I’m looking to collaborate on any C stack project
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/samuelodumu/)
