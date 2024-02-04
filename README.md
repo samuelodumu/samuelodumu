@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Samuel Odumu
-- 👀 I’m working on becoming amazing at the C language...and chess♟️
+- 👀 I’m working on becoming amazing at the C language and python
 - 💞️ I’m looking to collaborate on any C stack project
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/samuelodumu/)
